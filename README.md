@@ -4,7 +4,7 @@
 
 Plugin ini hadir dengan kontrol yang mudah digunakan seperti Gain, Drive, Range, Blend, dan Volume, serta pilihan jenis distorsi yang bisa disesuaikan dengan gaya bermain Anda. Antarmuka plugin ini dibuat dengan desain bertema metalik, dilengkapi knob bergaya sprite yang halus dan responsif.
 
-Dikembangkan menggunakan JUCE Framework versi 7.0.9, Rock Amp cocok untuk produksi musik rock, metal, atau eksperimen suara lainnya.
+Dikembangkan menggunakan JUCE Framework versi 7.0.9, QWARE AMPLIFIER cocok untuk produksi musik rock, metal, atau eksperimen suara lainnya.
 
 ---
 
