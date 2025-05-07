@@ -1,1 +1,1 @@
-# QWareAmplifier
+# QWareAmp

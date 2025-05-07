@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio Version 17
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QWareAmp - Standalone Plugin", "QWareAmp_StandalonePlugin.vcxproj", "{2B3D7A47-581D-257D-4AF4-581A6172A49A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F35DCE14-6FCA-AAF0-58CE-40BBA9D99720} = {F35DCE14-6FCA-AAF0-58CE-40BBA9D99720}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QWareAmp - VST3", "QWareAmp_VST3.vcxproj", "{C1D54D41-EDCC-8CF0-532C-E01E37AF5EA4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F35DCE14-6FCA-AAF0-58CE-40BBA9D99720} = {F35DCE14-6FCA-AAF0-58CE-40BBA9D99720}
+		{AF533567-C997-8514-96EC-BDB2BB17C68F} = {AF533567-C997-8514-96EC-BDB2BB17C68F}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QWareAmp - Shared Code", "QWareAmp_SharedCode.vcxproj", "{F35DCE14-6FCA-AAF0-58CE-40BBA9D99720}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QWareAmp - VST3 Manifest Helper", "QWareAmp_VST3ManifestHelper.vcxproj", "{AF533567-C997-8514-96EC-BDB2BB17C68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1D54D41-EDCC-8CF0-532C-E01E37AF5EA4}.Debug|x64.ActiveCfg = Debug|x64
+		{C1D54D41-EDCC-8CF0-532C-E01E37AF5EA4}.Debug|x64.Build.0 = Debug|x64
+		{C1D54D41-EDCC-8CF0-532C-E01E37AF5EA4}.Release|x64.ActiveCfg = Release|x64
+		{C1D54D41-EDCC-8CF0-532C-E01E37AF5EA4}.Release|x64.Build.0 = Release|x64
+		{2B3D7A47-581D-257D-4AF4-581A6172A49A}.Debug|x64.ActiveCfg = Debug|x64
+		{2B3D7A47-581D-257D-4AF4-581A6172A49A}.Debug|x64.Build.0 = Debug|x64
+		{2B3D7A47-581D-257D-4AF4-581A6172A49A}.Release|x64.ActiveCfg = Release|x64
+		{2B3D7A47-581D-257D-4AF4-581A6172A49A}.Release|x64.Build.0 = Release|x64
+		{F35DCE14-6FCA-AAF0-58CE-40BBA9D99720}.Debug|x64.ActiveCfg = Debug|x64
+		{F35DCE14-6FCA-AAF0-58CE-40BBA9D99720}.Debug|x64.Build.0 = Debug|x64
+		{F35DCE14-6FCA-AAF0-58CE-40BBA9D99720}.Release|x64.ActiveCfg = Release|x64
+		{F35DCE14-6FCA-AAF0-58CE-40BBA9D99720}.Release|x64.Build.0 = Release|x64
+		{AF533567-C997-8514-96EC-BDB2BB17C68F}.Debug|x64.ActiveCfg = Debug|x64
+		{AF533567-C997-8514-96EC-BDB2BB17C68F}.Debug|x64.Build.0 = Debug|x64
+		{AF533567-C997-8514-96EC-BDB2BB17C68F}.Release|x64.ActiveCfg = Release|x64
+		{AF533567-C997-8514-96EC-BDB2BB17C68F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
