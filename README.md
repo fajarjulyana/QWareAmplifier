@@ -1,6 +1,6 @@
 # 🎸 QWARE AMPLIFIER - Plugin Ampli Gitar
 
-**Rock Amp** adalah plugin ampli gitar virtual yang dirancang untuk memberikan nuansa suara analog dengan tampilan modern dan elegan.
+**QWARE AMPLIFIER** adalah plugin ampli gitar virtual yang dirancang untuk memberikan nuansa suara analog.
 
 Plugin ini hadir dengan kontrol yang mudah digunakan seperti Gain, Drive, Range, Blend, dan Volume, serta pilihan jenis distorsi yang bisa disesuaikan dengan gaya bermain Anda. Antarmuka plugin ini dibuat dengan desain bertema metalik, dilengkapi knob bergaya sprite yang halus dan responsif.
 
